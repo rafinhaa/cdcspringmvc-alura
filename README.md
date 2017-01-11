@@ -1,2 +1,2 @@
 # cdcspringmvc-alura
-Projeto Criado no site ALURA
+Projeto de um site de venda de livros, criado curso de Spring MVC do site ALURA.
